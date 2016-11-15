@@ -5,7 +5,7 @@
 
 ## Contributions
 
-Feel free to send [pull requests](https://github.com/gutfeeling/beginner_nlp/pulls), or email Dibya Chakravorty (dibyachakravorty@gmail.com)
+Feel free to send [pull requests](https://github.com/gutfeeling/beginner_nlp/pulls), or email me (dibyachakravorty@gmail.com)
 
 ## How this list got started
 
