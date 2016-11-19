@@ -9,7 +9,7 @@ Feel free to send [pull requests](https://github.com/gutfeeling/beginner_nlp/pul
 
 ## How this list got started
 
-On November 10, 2016, a Hacker News (HN) user aarohamankad asked the HN community for suggestions on beginner NLP resources. This [Ask HN thread](https://news.ycombinator.com/item?id=12916498) became popular and stayed in the front page for some time. In this time, it gathered plenty of community generated suggestions about beginner NLP resources. This list is an attempt to summarize this discussion into a coherent list of resources. I also wrote a [blog post](https://medium.com/ask-hn-summaries/how-to-get-into-natural-language-processing-2011bf9f4cfe#.szm4ljj93) on this.
+On November 10, 2016, a Hacker News (HN) user aarohmankad asked the HN community for suggestions on beginner NLP resources. This [Ask HN thread](https://news.ycombinator.com/item?id=12916498) became popular and stayed in the front page for some time. In this time, it gathered plenty of community generated suggestions about beginner NLP resources. This list is an attempt to summarize this discussion into a coherent list of resources. I also wrote a [blog post](https://medium.com/ask-hn-summaries/how-to-get-into-natural-language-processing-2011bf9f4cfe#.szm4ljj93) on this.
 
 ## Table of Contents
  - [Books](#books)
