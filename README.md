@@ -27,14 +27,14 @@ On November 10, 2016, a Hacker News (HN) user aarohmankad asked the HN community
  
 ## Books
 
-* [Speech and Language Processing](http://amzn.to/2gcKcey) : Classic and Standard textbook in NLP. Pre publication draft of 3rd edition available [here](https://web.stanford.edu/~jurafsky/slp3/).
-* [Natural Language Processing with Python](http://amzn.to/2fdaYie) : Application oriented book. Examples are in Python (NLTK). Free online version [here](http://nltk.org/book).
-* [Taming Text](http://amzn.to/2gdGErX) : Application oriented book. Examples are in JAVA.
-* [Foundations of Statistical Natural Language Processing](http://amzn.to/2fT4Co4) : Classic text on Statistical NLP. Goes deep into the implementation of parsers, taggers etc.
-* [Handbook of Natural Language Processing](http://amzn.to/2fSZss6) : A complete treatment of NLP that starts from the historical roots and ends with the modern methods of NLP.
-* [Statistical Machine Translation](http://amzn.to/2eWPQMc) : Learn how to make a service like Google Translate
-* [Introduction to Information Retrieval](http://amzn.to/2eWTjKq) : Learn the nuts and bolts of services like Google Search and Google News (search, text classification, clustering etc.)
-* [Prolog and Natural Language Analysis](http://amzn.to/2fT56KT) : Implement NLP algortihms in Prolog.
+* [Speech and Language Processing](http://amzn.to/2jr4nSQ) : Classic and Standard textbook in NLP. Pre publication draft of 3rd edition available [here](https://web.stanford.edu/~jurafsky/slp3/).
+* [Natural Language Processing with Python](http://amzn.to/2icxF6G) : Application oriented book. Examples are in Python (NLTK). Free online version [here](http://nltk.org/book).
+* [Taming Text](http://amzn.to/2jr2shd) : Application oriented book. Examples are in JAVA.
+* [Foundations of Statistical Natural Language Processing](http://amzn.to/2jqSSuG) : Classic text on Statistical NLP. Goes deep into the implementation of parsers, taggers etc.
+* [Handbook of Natural Language Processing](http://amzn.to/2j1wOda) : A complete treatment of NLP that starts from the historical roots and ends with the modern methods of NLP.
+* [Statistical Machine Translation](http://amzn.to/2jzFLvh) : Learn how to make a service like Google Translate
+* [Introduction to Information Retrieval](http://amzn.to/2i9MCLO) : Learn the nuts and bolts of services like Google Search and Google News (search, text classification, clustering etc.)
+* [Prolog and Natural Language Analysis](http://amzn.to/2j4rvdh) : Implement NLP algortihms in Prolog.
 
 ## MOOCs
 
